@@ -14,7 +14,7 @@ Sign up using the following link: [Piazza Forum - CSCI 3308](https://piazza.com/
 
 ### Course Website
 
-Please enroll ASAP in the [Moodle course web page]((https://moodle.cs.colorado.edu/course/view.php?id=163)). All of your class material will be available through Moodle, and all exams will be administered here as well. The enrollment key is: **kernel**
+Please enroll ASAP in the [Moodle course web page]((https://moodle.cs.colorado.edu/course/view.php?id=163)). All of your class material will be available through Moodle, and all exams will be administered here as well. The enrollment key is: **agile**
 
 ### Github
 
