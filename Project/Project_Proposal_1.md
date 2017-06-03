@@ -1,6 +1,8 @@
-# Project Milestone # 1
+## CSCI 3308 Software Development Methods and Tools [Summer 2017]
+**Instructor:** Chris Womack | **Milestone #1** – Material by Liz Boese | **Due Date:** 23:55 on Jun 12th
 
-## Milestone 1 - Proposal – Due Jun 12th
+# Project Proposal
+
 The project proposal is the first document required from the team. All the information  listed below must be included and tools should be in place by the due date.
 
 |  | Requirments |
