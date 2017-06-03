@@ -1,6 +1,5 @@
 ## CSCI 3308 Software Development Methods and Tools [Summer 2017]
-**Instructor:** Chris Womack | **Homework1** – Material by Liz Boese. 
-**Due Date:** 23:55 on Jun 9th
+**Instructor:** Chris Womack | **Homework1** – Material by Liz Boese | **Due Date:** 23:55 on Jun 9th
 
 # Bash Shell Scripts & Regex
 
