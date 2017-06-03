@@ -89,7 +89,9 @@ Requirements:
    - Usage: RegexAnswers.sh filename
 
    You will only submit a single zipped file containing all three of your script files. If you are pair-programming only one of you will submit. 
-   If you are working alone, name the zip file using the following template: Lastname_HW1.zip
-   If you are pair programming, then name the file using this template:       Lastname1_Lastname2_HW1.zip
+   1. If you are working alone, name the zip file using the following template:
+      - Lastname_HW1.zip
+   2. If you are pair programming, then name the file using this template:
+      - Lastname1_Lastname2_HW1.zip
 
 **Note: All the 3 scripts should be runnable from command line where filename is given as an argument. If a script doesn’t execute or doesn’t provide the right output, then points will be deducted.**
