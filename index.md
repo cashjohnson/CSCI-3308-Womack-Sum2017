@@ -8,7 +8,7 @@ If you have trouble installing the VM then get help [here](mailto:ethan.hanner@C
 
 ### Class Forum
 
-I will be teaching multiple courses this summer and have not been provided with additional help (TA's). So, inorder to ensure you receive the help you need, we will be using [Piazza](https://piazza.com/colorado/summer2017/csci3308/home) for discussion/questions regarding problem sets and programming assignments.
+I will be teaching multiple courses this summer and have not been provided with additional help (TA's). So in order to ensure you receive the help you need, we will be using [Piazza](https://piazza.com/colorado/summer2017/csci3308/home) for discussion/questions regarding problem sets and programming assignments.
 
 Sign up using the following link: [Piazza Forum - CSCI 3308](https://piazza.com/colorado/summer2017/csci3308)
 
@@ -26,7 +26,7 @@ As moodle can be a little tedious to use for downloading all class material, I w
 
 ### Fork Repository
 
-There are several ways to get the course content. The easiest, though less versitile if changes are made to the repo, is to download the content through the download links to the left. The second method is to use git and fork the repo to your account, then clone the repo to your local machine. You can follow the steps below to fork/sync the repo:
+There are several ways to get the course content. The easiest way, though less versitile if changes are made to the repo, is to download the content through the download links to the left. The second method is to use git and fork the repo to your account, then clone the repo to your local machine. You can follow the steps below to fork/sync the repo:
 
 - Ensure you have a Github account. If you don't you can sign up [here](https://github.com/join).
    - Also checkout the [Student Developer Pack](https://education.github.com/pack) if you don't already have it. Some really good stuff here including private repos
