@@ -10,7 +10,7 @@ If you have trouble installing the VM then get help [here](mailto:ethan.hanner@C
 
 I will be teaching multiple courses this summer and have not been provided with additional help (TA's). So, inorder to ensure you receive the help you need, we will be using [Piazza](https://piazza.com/colorado/summer2017/csci3308/home) for discussion/questions regarding problem sets and programming assignments.
 
-Sign up using the following link: [Piazza Forum - CSCI 3753](https://piazza.com/colorado/summer2017/csci3308)
+Sign up using the following link: [Piazza Forum - CSCI 3308](https://piazza.com/colorado/summer2017/csci3308)
 
 ### Course Website
 
