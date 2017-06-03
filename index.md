@@ -2,7 +2,7 @@
 
 | Discussion Forum | Course Website | Lectures | Repository |
 |:---:|:---:|:----:| :----:|
-| [Piazza](piazza.com/colorado/summer2017/csci3308/home) | [Moodle](https://moodle.cs.colorado.edu/course/view.php?id=163) | [Youtube](https://www.youtube.com/user/chrisdwomack) | [Github](https://github.com/chris-womack/CSCI-3308-Womack-Sum2017/) |
+| [Piazza](https://piazza.com/colorado/summer2017/csci3308/home) | [Moodle](https://moodle.cs.colorado.edu/course/view.php?id=163) | [Youtube](https://www.youtube.com/user/chrisdwomack) | [Github](https://github.com/chris-womack/CSCI-3308-Womack-Sum2017/) |
 
 ### Virtual Machine
 
