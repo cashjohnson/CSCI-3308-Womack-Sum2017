@@ -53,7 +53,7 @@ The student will learn the fundamentals of software development methods and gain
 
 **Suggested:** Unix, Regex Golf, Regex (http://bit.ly/1vGFwJV), Makefiles, Ant, Bash Shell Scripting, Software Process & Methodologies by David Kung, Scrum Framework (just the chapter on Scrum Framework), Version Control by Erik Sink Chapters 1, 2, 5, 6, 8, Planning Poker, RDBM, E-R Diagrams, Intro to SQL Pages 1-13 (stop before views) and 16 group by/having, NoSQL, XML tutorial, JSON tutorial, SOAP vs REST, Retrospectives, Cloud, Testing, Klocwork, Find Bugs (all are provided by instructor) 
 
-### Course Website
+### Course Website / Resources
 
 Please enroll ASAP in the [Moodle course web page]((https://moodle.cs.colorado.edu/course/view.php?id=163)). All of your class material will be available through Moodle, and all exams will be administered here as well. The enrollment key is: **agile**
 
@@ -66,6 +66,8 @@ As moodle can be a little tedious to use for downloading all class material, I w
 - Demo Code from Class
 
 There is also a corresponding [website](https://chris-womack.github.io/CSCI-3308-Womack-Sum2017/) that will help you get setup for the semester.
+
+Lecture videos will be hosted on my [youtube channel](https://www.youtube.com/user/chrisdwomack) and will be uploaded weekly. Lectures should be watched before the corresponding lab.
 
 ### Course Schedule
 
