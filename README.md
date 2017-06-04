@@ -6,6 +6,8 @@
    * [Piazza forum](https://piazza.com/colorado/summer2017/csci3308/home) for questions and discussion 
    * [Email](mailto:christopher.womack@colorado.edu) for 1-on-1 help, or to set up a time to meet
 * **Office Location:** CSEL or ECCR 235
+* **Grader:** Yawen Zhang - [yawen.zhang@colorado.edu](mailto:yawen.zhang@colorado.edu)
+* **Course Assistant: ** Bum Soo Kim – Located in the CSEL
 * **Class Time:** Monday through Thursday from 11:00 to 1:30
 * **Class Location:** ECCR 235 in the Engineering Center
 
