@@ -70,17 +70,19 @@ These steps will sync your local repo with the current version of *this* repo. R
 # First add the upstream
 git remote add upstream https://github.com/chris-womack/CSCI-3753-Womack-Sum2017
 
+cd 
+
 # Second fetch
 $ git fetch upstream
 
 # Third switch branches
-$ git checkout master
+$ git checkout gh-pages
 
 # Now merge with local master
-$ git merge upstream/master
+$ git merge upstream/gh-pages
 
 # Finally push to origin master (remote)
-$ git push origin master
+$ git push origin gh-pages
 ```
 
 <br>
