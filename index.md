@@ -68,7 +68,7 @@ These steps will sync your local repo with the current version of *this* repo. R
 
 ```Shell
 # First add the upstream
-git remote add upstream https://github.com/chris-womack/CSCI-3753-Womack-Sum2017
+git remote add upstream https://github.com/chris-womack/CSCI-3308-Womack-Sum2017
 
 # After you have run the above command once, you should not need to run it again. 
 # The following three will allow you to sync your repo.
