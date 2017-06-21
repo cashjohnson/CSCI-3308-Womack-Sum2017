@@ -13,7 +13,7 @@ Requirements for Milestone Three:
    
 Submission:
 
-– A pdf file/document posted on github
+- A pdf file/document posted on github
 - A few sentences describing your project’s database
 - A database design diagram
 - Links to SQL scripts to create and populate your database
