@@ -1,6 +1,6 @@
 ## CSCI 3308 Software Development Methods and Tools [Summer 2017]
 
-**Instructor:** Chris Womack | **Milestone #2** – Material by Liz Boese | **Due Date:** 23:55 on Jun 26
+**Instructor:** Chris Womack | **Milestone #3** – Material by Liz Boese | **Due Date:** 23:55 on Jun 26
 
 Requirements for Milestone Three:
 
