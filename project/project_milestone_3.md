@@ -8,8 +8,10 @@ Requirements for Milestone Three:
 – Scripts to populate your database with data
 – Database Design Diagram
    - Visually depicts the structures within your database and their relationships to each other
-   - PreferablyanEntityRelationshipDiagram • Submission:
+   - PreferablyanEntityRelationshipDiagram
+   
+Submission:   
 – A pdf file/document posted on github
-   - A few sentences describing your project’s database
-   - Adatabasedesigndiagram
-   - Links to SQL scripts to create and populate your database
+- A few sentences describing your project’s database
+- A database design diagram
+- Links to SQL scripts to create and populate your database
