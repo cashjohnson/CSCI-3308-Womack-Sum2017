@@ -3,6 +3,7 @@
 **Instructor:** Chris Womack | **Milestone #2** – Material by Liz Boese | **Due Date:** 23:55 on Jun 26
 
 Requirements for Milestone Three:
+
 - Identify the DBMS software you have selected (mySQL, MongoDB, etc.)
 – Scripts to create your database, tables, columns
 – Scripts to populate your database with data
@@ -10,7 +11,8 @@ Requirements for Milestone Three:
    - Visually depicts the structures within your database and their relationships to each other
    - PreferablyanEntityRelationshipDiagram
    
-Submission:   
+Submission:
+
 – A pdf file/document posted on github
 - A few sentences describing your project’s database
 - A database design diagram
